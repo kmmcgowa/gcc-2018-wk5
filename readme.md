@@ -8,12 +8,12 @@ Covering:
 
 ## Slides
 
-(Google Slide Deck)[https://docs.google.com/presentation/d/1qbkks3ILRGHvcSzrP02NrcBFSd5guDk5KqE1_cgEqCo/edit?usp=sharing]
+[Google Slide Deck](https://docs.google.com/presentation/d/1qbkks3ILRGHvcSzrP02NrcBFSd5guDk5KqE1_cgEqCo/edit?usp=sharing)
 
 ## HTML 5 Resources
 
-(Interneting is Hard)[https://internetingishard.com/html-and-css/semantic-html/]
+[Interneting is Hard](https://internetingishard.com/html-and-css/semantic-html/)
 
 ## CSS Resources
 
-(Also at Interneting is Hard)[https://internetingishard.com/html-and-css/hello-css/]
+[Also at Interneting is Hard](https://internetingishard.com/html-and-css/hello-css/)
